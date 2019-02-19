@@ -60,6 +60,7 @@ body {
   background-color: #eeeeee;
   margin: 0;
   width: 100%;
+  float: left;
 }
 
 .mail.icon {
