@@ -32,13 +32,13 @@ body {
 .ui.three.column.grid.container {
   background-color: #dddddd;
   width: 100%;
-  margin: 0;
+  margin: 0px !important;
 }
 
 .ui.column.grid.container {
   background-color: #dddddd;
   width: 100%;
-  margin: 0;
+  margin: 0px !important;
 }
 
 .ui.circular.mail.icon.button {
