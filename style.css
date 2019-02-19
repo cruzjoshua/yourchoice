@@ -56,7 +56,7 @@ body {
   background-color: #ccc;
 }
 
-.ui.four.column.centered.doubling.stackable.grid.container {
+.ui.four.column.centered.container {
   background-color: #eeeeee;
   margin: 0;
   width: 100%;
